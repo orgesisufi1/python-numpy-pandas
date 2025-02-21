@@ -1,0 +1,39 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "name": "Complete project report",
+            "description": "Finish the final project report and send it to the manager.",
+            "due_date": "2024-11-25",
+            "completed": false
+        },
+        {
+            "id": 2,
+            "name": "Team meeting",
+            "description": "Discuss Q4 objectives and project progress with the team.",
+            "due_date": "2024-11-22",
+            "completed": true
+        },
+        {
+            "id": 3,
+            "name": "Submit tax documents",
+            "description": "Prepare and submit tax-related documents to the finance department.",
+            "due_date": "2024-11-30",
+            "completed": true
+        },
+        {
+            "id": 4,
+            "name": "Update website",
+            "description": "Add new blog posts and fix the broken links on the website.",
+            "due_date": "2024-11-23",
+            "completed": false
+        },
+        {
+            "id": 5,
+            "name": "Client follow-up",
+            "description": "Follow up with clients about pending feedback on the design mockups.",
+            "due_date": "2024-11-26",
+            "completed": false
+        }
+    ]
+}

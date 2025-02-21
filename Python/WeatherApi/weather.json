@@ -1,0 +1,46 @@
+{
+    "weather": [
+        {
+            "city_name": "London",
+            "country": "GB",
+            "weather": "Clouds",
+            "description": "broken clouds",
+            "temp": 11.7
+        },
+        {
+            "city_name": "Madrid",
+            "country": "ES",
+            "weather": "Clouds",
+            "description": "broken clouds",
+            "temp": 14.1
+        },
+        {
+            "city_name": "London",
+            "country": "GB",
+            "weather": "Clouds",
+            "description": "broken clouds",
+            "temp": 11.7
+        },
+        {
+            "city_name": "Prague",
+            "country": "CZ",
+            "weather": "Clear",
+            "description": "clear sky",
+            "temp": 9.27
+        },
+        {
+            "city_name": "London",
+            "country": "GB",
+            "weather": "Clouds",
+            "description": "few clouds",
+            "temp": 11.46
+        },
+        {
+            "city_name": "Cardiff",
+            "country": "GB",
+            "weather": "Rain",
+            "description": "light rain",
+            "temp": 9.62
+        }
+    ]
+}
