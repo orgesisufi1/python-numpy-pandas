@@ -1,5 +1,5 @@
+datas/
 *.env
 __pycache__/
-Pandas/datas/
-.ipynb_checkpoints
+*.ipynb_checkpoints
 .DS_Store
